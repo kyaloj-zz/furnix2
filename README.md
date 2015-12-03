@@ -1,2 +1,3 @@
-# furnix2
+#### furnix2
 Another online store
+* Using Spreecommerce
